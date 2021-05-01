@@ -18,4 +18,4 @@ Type "S" to see your balance.
 
 Type "O" to see your last transaction.
 
-Up to 100
+Up to 100 accounts.
