@@ -4,7 +4,7 @@ Client-server UDP project emulating a simple bank account manager (FR)
 This project is composed by two programs: a server and a client. Client acts as the interface. Server executes all the commands and acts acts as a log file/debugger.
 
 To execute the server, execute "make" and then "./server.out"
-To execute the server, execute "make" and then "./client.out"
+To execute the client, execute "make" and then "./client.out"
 
 Firstly, create an account by typing "N" and then your login and password. These informations are now stored in the server.
 
